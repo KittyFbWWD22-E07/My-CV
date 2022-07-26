@@ -1,4 +1,4 @@
-# <span style="color:orange">Keturah Cathnott </span> <br> <span style="color:teal; font-size:24px">*Junior Full-Stack Web Developer* </span>
+# <span style="color:orange">Keturah Cathnott </span> <br> <span style="color:teal; font-size:20px">*Junior Full-Stack Web Developer* </span>
 
 ![wallet size profile picture](./images/profilepic-ImResizer.jpg)  
 
